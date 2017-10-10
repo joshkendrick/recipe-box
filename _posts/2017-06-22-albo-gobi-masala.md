@@ -1,4 +1,5 @@
-﻿----
+﻿---
+layout: post
 title: Albo Gobi Masala
 date: '2017-06-22T19:50:00.000-05:00'
 author: Josh Kendrick
@@ -8,7 +9,7 @@ tags:
 - indian
 - middle_eastern
 - curry
-----
+---
 
 Allrecipes, feb/march 2017, p. 95
 
