@@ -1,8 +1,8 @@
 ---
 layout: post
+author: Josh Kendrick
 title: Albo Gobi Masala
 date: '2017-06-22T19:50:00.000-05:00'
-author: Josh Kendrick
 tags:
 - masala
 - chickpeas
@@ -10,8 +10,6 @@ tags:
 - middle_eastern
 - curry
 ---
-
-Allrecipes, feb/march 2017, p. 95
 
 Ingredients:
 * 1 onion, chopped
@@ -33,3 +31,5 @@ Directions:
 4. Cook, covered, until tender-crisp, ~5 minutes
 5. Add cauliflower, tomatoes, curry, ¼ cup water
 6. Cook, covered, until all are tender, 8-10 minutes
+
+*Source: Allrecipes, feb/march 2017, p. 95*
