@@ -22,7 +22,6 @@ Ingredients:
 * salt
 * black pepper
 
-
 Directions:
 1. Soak almonds in a bowl of water 9 hours. drain and rinse well
 2. add almonds to food processor and process until finely chopped. it should look like flaked tuna, place in medium mixing bowl
