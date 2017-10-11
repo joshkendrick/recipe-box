@@ -7,7 +7,7 @@ tags:
 - masala
 - chickpeas
 - indian
-- middle_eastern
+- middle-eastern
 - curry
 ---
 
