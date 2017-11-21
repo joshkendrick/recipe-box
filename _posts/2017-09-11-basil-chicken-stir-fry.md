@@ -33,4 +33,4 @@ Directions:
 6. You would add basil and cook for 1 minute here if you had it
 7. Serve over rice
 
-*Source: Allrecipes Summer 2017 p. 86*
+*Source: Allrecipes, Summer 2017, p. 86*

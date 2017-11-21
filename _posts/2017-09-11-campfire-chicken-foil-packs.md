@@ -28,4 +28,4 @@ Directions:
 3. Wrap foil around mixtures, possibly wrap with another layer of foil
 4. Grill packs 25-30 minutes, rotate occasionally
 
-*Source: Allrecipes Summer 2017 p. 70*
+*Source: Allrecipes, Summer 2017, p. 70*

@@ -32,4 +32,4 @@ Directions:
 5. Add cauliflower, tomatoes, curry, ¼ cup water
 6. Cook, covered, until all are tender, 8-10 minutes
 
-*Source: Allrecipes, feb/march 2017, p. 95*
+*Source: Allrecipes, Feb/March 2017, p. 95*

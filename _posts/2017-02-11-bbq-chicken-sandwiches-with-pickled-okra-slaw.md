@@ -38,4 +38,4 @@ Directions:
 10. Cook over medium heat, stirring, until warmed through, 2 to 3 minutes, adding the remaining poaching liquid as needed if the chicken is too drive
 11. Pile the pulled chicken on the buns and serve with the slaw
 
-*Source: Mom’s Food Network Magazine -- Jan/Feb 2017 p. 84*
+*Source: Food Network Magazine, Jan/Feb 2017, p. 84*
