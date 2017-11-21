@@ -4,7 +4,7 @@ author: Josh Kendrick
 title: Chickpea Salad
 date: '2013-02-21T23:23:00.000-05:00'
 tags:
-- chicpeas
+- chickpeas
 - salad
 ---
 
