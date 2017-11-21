@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: BBQ Chicken Sandwiches with Pickled Okra Slaw
-date: '2017-02-11T16:00:00.000-05:00'
+date: '2017-02-11T16:09:00.000-05:00'
 tags:
 - bbq
 - chicken

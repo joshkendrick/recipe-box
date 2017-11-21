@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: BBQ Buffalo Chicken Salad
-date: '2017-06-22T19:40:00.000-05:00'
+date: '2017-06-22T19:50:00.000-05:00'
 tags:
 - bbq
 - buffalo
