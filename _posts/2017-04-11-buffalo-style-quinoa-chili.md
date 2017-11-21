@@ -25,7 +25,6 @@ Ingredients:
 * Salt
 * pepper
 
-
 Directions:
 1. Cook quinoa according to box
 2. Heat oil in a pot over medium until hot.

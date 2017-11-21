@@ -25,7 +25,6 @@ Ingredients:
 * 1 tablespoon yellow mustard
 * May need more of the above to make a good bbq taste; plum sauce, actual bbq sauce
 
-
 Directions:
 1. Preheat the oven to 350 degrees
 2. Place the chicken in a medium saucepan and add 2 cups water, the okra brine, large scallion pieces and dill sprigs. Bring to a boil over high heat

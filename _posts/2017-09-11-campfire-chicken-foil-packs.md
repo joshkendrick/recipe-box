@@ -22,7 +22,6 @@ Ingredients:
 * Pepper
 * ½ teaspooon thyme
 
-
 Directions:
 1. Preaheat outdoor grill, will cook over medium (325-375)
 2. Mix all ingredients together, divide evenly among 4 heavy duty foil sheets

@@ -21,7 +21,6 @@ Ingredients:
 * 1 green pepper, chopped
 * 1/2 cup shredded mozzarella
 
-
 Directions:
 1. melt butter over medium heat
 2. cook onion and garlic in butter for 3 minutes, stirring

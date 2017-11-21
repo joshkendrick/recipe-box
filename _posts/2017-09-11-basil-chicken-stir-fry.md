@@ -24,7 +24,6 @@ Ingredients:
 * Black pepper
 * Brown rice, maybe 2 cups uncooked?
 
-
 Directions:
 1. BEFOREHAND!: stir together water, soy sauce, brown sugar and marinate the chicken for 30 minutes at room temp (i forgot and it was still good)
 2. In large nonstick skillet, cook chicken and marinade with oil in skillet over medium-high heat until chicken is cooked as desired

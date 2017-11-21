@@ -29,7 +29,6 @@ Ingredients:
 * 1 tsp and 2 tbsp olive oil (or 4 tbsp olive oil if doubling dressing)
 * Salt and pepper
 
-
 Directions:
 1. Grill chicken (I just grilled it like the grill says on Saturday, then let it cool, put it in fridge, sliced and mixed it with wing sauce later in the week)
    1. Heat grill to medium-high

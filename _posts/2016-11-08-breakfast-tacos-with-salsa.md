@@ -20,7 +20,6 @@ Ingredients:
 * Pepper
 * Tortillas for tacos
 
-
 Directions:
 1. THE DAY BEFORE: bake potatoes at 400 for 40 minutes. Allow to cool then place in fridge
 2. Brown the sausage
