@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Chicken Saag
-date: '2017-10-040T21:17:00.000-05:00'
+date: '2017-10-04T21:17:00.000-05:00'
 tags:
 - indian
 - chicken
