@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 author: Josh Kendrick
 title: Chicken Hummus Bowl ww/ Zucchini and Veggies
@@ -22,7 +22,6 @@ Ingredients:
 * 1 teaspoon ground cumin
 * ½ tsp cinnamon
 * Feta for topping
-
 
 Directions:
 1. Start rice in rice cooker
