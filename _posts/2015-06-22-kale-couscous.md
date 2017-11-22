@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 author: Josh Kendrick
-title: Jamaican Pork/Chicken Stir-Fry
+title: Kale Couscous
 date: '2015-06-22T19:20:00.000-05:00'
 tags:
 - kale
