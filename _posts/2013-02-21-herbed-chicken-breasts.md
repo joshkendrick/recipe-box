@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 author: Josh Kendrick
 title: Herbed Chicken Breasts
