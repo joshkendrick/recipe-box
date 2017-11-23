@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Crock Pot Vegetable Soup
 date: '2013-02-21T10:45:00.000-05:00'
 tags:
+- meals
 - slow-cooker
 - soup
 - vegetarian

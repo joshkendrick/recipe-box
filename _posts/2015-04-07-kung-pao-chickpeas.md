@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Kung Pao Chickpeas
 date: '2015-04-07T21:50:00.000-05:00'
 tags:
+- meals
 - chickpeas
 - bowl
 ---

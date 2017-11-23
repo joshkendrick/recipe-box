@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Buffalo Style Quinoa Chili
 date: '2017-04-11T19:24:00.000-05:00'
 tags:
+- meals
 - buffalo
 - quinoa
 - chili

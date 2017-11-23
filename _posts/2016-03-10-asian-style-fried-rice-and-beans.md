@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Asian Style Fried Rice & Beans
 date: '2016-03-10T19:01:00.000-05:00'
 tags:
+- meals
 - asian
 - stir-fry
 - brown-rice

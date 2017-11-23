@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Chicken Hummus Bowl ww/ Zucchini and Veggies
 date: '2017-05-15T21:39:00.000-05:00'
 tags:
+- meals
 - chicken
 - hummus
 - bowl

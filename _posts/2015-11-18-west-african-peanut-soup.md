@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: West African Peanut Soup
 date: '2015-11-18T22:29:00.000-05:00'
 tags:
+- meals
 - soup
 - vegetarian
 ---

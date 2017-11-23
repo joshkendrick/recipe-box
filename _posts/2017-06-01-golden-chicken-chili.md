@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Golden Chicken Chili
 date: '2017-06-01T16:02:00.000-05:00'
 tags:
+- meals
 - chicken
 - soup
 - chili

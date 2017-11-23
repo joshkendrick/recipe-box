@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Breakfast for Dinner
 date: '2013-03-23T19:21:00.000-05:00'
 tags:
+- meals
 - breakfast
 - eggs
 ---

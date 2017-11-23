@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Brown Rice and Lentils
 date: '2013-02-21T10:32:00.000-05:00'
 tags:
+- meals
 - brown-rice
 - lentils
 - bowl

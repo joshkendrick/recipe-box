@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Crock Pot Sloppy Joe's Vegetarian
 date: '2013-09-02T19:17:00.000-05:00'
 tags:
+- meals
 - slow-cooker
 - sandwich
 - vegetarian

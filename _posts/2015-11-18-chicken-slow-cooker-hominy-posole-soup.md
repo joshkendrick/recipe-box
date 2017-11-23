@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Chicken Slow Cooker Hominy Posole Soup
 date: '2015-11-18T22:49:00.000-05:00'
 tags:
+- meals
 - chicken
 - slow-cooker
 - mexican

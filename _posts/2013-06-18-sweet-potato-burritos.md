@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Sweet Potato Burritos
 date: '2013-06-18T19:48:00.000-05:00'
 tags:
+- meals
 - sweet-potatoes
 - tacos
 - burritos

@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Roasted Sweet Potato and Black Bean Chili
 date: '2016-11-08T21:45:00.000-05:00'
 tags:
+- meals
 - sweet-potatoes
 - chili
 - vegetarian

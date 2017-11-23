@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Lentil and Sausage Stew
 date: '2017-03-08T16:34:00.000-05:00'
 tags:
+- meals
 - lentils
 - soup
 ---

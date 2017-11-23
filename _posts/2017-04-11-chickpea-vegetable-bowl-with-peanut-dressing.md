@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Chickpea Vegetable Bowl with Peanut Dressing
 date: '2017-04-11T19:40:00.000-05:00'
 tags:
+- meals
 - chickpeas
 - bowl
 ---

@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Moroccan Spiced Chicken with Couscous Slow Cooker
 date: '2015-11-25T20:16:00.000-05:00'
 tags:
+- meals
 - chicken
 - slow-cooker
 - bowl

@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Chicken Pinto Bean Enchilada Tacos
 date: '2015-09-27T14:46:00.000-05:00'
 tags:
+- meals
 - chicken
 - enchiladas
 - tacos

@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Chicken Meatball Sandwiches
 date: '2015-09-27T14:42:00.000-05:00'
 tags:
+- meals
 - chicken
 - meatball
 - sandwich

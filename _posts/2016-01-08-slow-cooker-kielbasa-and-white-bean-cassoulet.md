@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Slow Cooker Kielbasa and White Bean Cassoulet
 date: '2016-01-18T08:01:00.000-05:00'
 tags:
+- meals
 - slow-cooker
 - soup
 ---

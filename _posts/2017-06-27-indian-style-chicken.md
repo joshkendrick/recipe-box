@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Indian Style Chicken
 date: '2017-06-27T20:04:00.000-05:00'
 tags:
+- meals
 - chicken
 ---
 

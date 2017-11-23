@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Chana Masala
 date: '2016-04-28T20:05:00.000-05:00'
 tags:
+- meals
 - indian
 - chickpeas
 ---

@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Spinach and White Bean Soup
 date: '2015-04-28T20:18:00.000-05:00'
 tags:
+- meals
 - soup
 - vegetarian
 ---

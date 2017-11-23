@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Almond No Tuna Salad
 date: '2013-09-02T19:12:00.000-05:00'
 tags:
+- meals
 - almonds
 - sandwiches
 - make-ahead

@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Potato Lentil Soup with Greens
 date: '2013-02-03T09:27:00.000-05:00'
 tags:
+- meals
 - kale
 - soup
 ---

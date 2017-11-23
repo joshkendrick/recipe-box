@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Quinoa and Roasted Pepper Chili
 date: '2013-12-11T16:14:00.000-05:00'
 tags:
+- meals
 - quinoa
 - chili
 - vegetarian

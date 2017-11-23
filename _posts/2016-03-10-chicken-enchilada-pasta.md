@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Chicken Enchilada Pasta
 date: '2016-03-10T19:00:00.000-05:00'
 tags:
+- meals
 - chicken
 - enchiladas
 - pasta

@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Summer Gumbo
 date: '2015-05-05T15:58:00.000-05:00'
 tags:
+- meals
 - soup
 - vegetarian
 ---

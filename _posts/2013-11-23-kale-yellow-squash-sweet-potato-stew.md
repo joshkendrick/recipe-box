@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Kale Yellow Squash and Sweet Potato Stew
 date: '2013-11-23T23:38:00.000-05:00'
 tags:
+- meals
 - kale
 - soup
 - sweet-potatoes

@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Slow Cooker Pesto Minestrone
 date: '2017-02-11T15:46:00.000-05:00'
 tags:
+- meals
 - slow-cooker
 - soup
 ---

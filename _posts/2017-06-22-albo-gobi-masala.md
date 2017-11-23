@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Albo Gobi Masala
 date: '2017-06-22T19:50:00.000-05:00'
 tags:
+- meals
 - masala
 - chickpeas
 - indian

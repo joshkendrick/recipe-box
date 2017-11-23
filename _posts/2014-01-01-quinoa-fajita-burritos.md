@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Quinoa Fajita Burritos
 date: '2014-01-01T12:40:00.000-05:00'
 tags:
+- meals
 - quinoa
 - fajitas
 - tacos

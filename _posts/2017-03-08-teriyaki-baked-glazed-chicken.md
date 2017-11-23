@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Teriyaki Baked Glazed Chicken
 date: '2017-03-08T16:22:00.000-05:00'
 tags:
+- meals
 - chicken
 ---
 

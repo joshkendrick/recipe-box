@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Louisiana Vegetarian Gumbo
 date: '2013-02-21T10:56:00.000-05:00'
 tags:
+- meals
 - vegetarian
 - soup
 ---

@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Curried Chickpea and Red Lentil Soup
 date: '2017-05-04T13:23:00.000-05:00'
 tags:
+- meals
 - indian
 - chickpeas
 - curry

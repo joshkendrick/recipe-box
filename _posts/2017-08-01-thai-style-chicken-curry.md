@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Thai Style Chicken Curry
 date: '2017-08-01T22:05:00.000-05:00'
 tags:
+- meals
 - chicken
 - bowl
 ---
