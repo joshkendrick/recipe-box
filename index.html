@@ -26,10 +26,22 @@ title: Home
 	{% endfor %}
 </ul>
 
-<h3>Recipes:</h3>
+<h3>Meals:</h3>
 
 <ul class="posts">
 	{% assign sortedPosts = site.tags.meals | sort: 'title' %}
+	{% for post in sortedPosts %}
+	<li>
+		<a href="{{ post.url }}">{{ post.title }}</a> &raquo;
+		<span>{{ post.date | date_to_string }}</span>
+	</li>
+	{% endfor %}
+</ul>
+
+<h3>Pasta:</h3>
+
+<ul class="posts">
+	{% assign sortedPosts = site.tags.pasta | sort: 'title' %}
 	{% for post in sortedPosts %}
 	<li>
 		<a href="{{ post.url }}">{{ post.title }}</a> &raquo;

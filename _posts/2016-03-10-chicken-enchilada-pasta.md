@@ -7,7 +7,6 @@ tags:
 - meals
 - chicken
 - enchiladas
-- pasta
 ---
 
 Ingredients:
