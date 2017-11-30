@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Josh Kendrick
-title: Two Broccolis and Raisin Pine Nut Sauce
+title: Pasta with Two Broccolis and Raisin Pine Nut Sauce
 date: '2017-11-23T23:21:00.000-05:00'
 tags:
 - pasta
