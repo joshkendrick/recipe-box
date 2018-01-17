@@ -8,7 +8,7 @@ tags:
 - kale
 ---
 
-Ingredients (for dressing):
+Ingredients:
 * 2 bunches (~ 2 cups) lacinato kale -- I just bought a kale bunch from the store -- roughly chopped, stemmed
 * 1 yellow onion
 * 1 lb (16oz) box orecchiette pasta
