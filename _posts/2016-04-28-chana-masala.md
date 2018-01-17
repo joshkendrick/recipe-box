@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Chana Masala
-date: '2016-04-28T20:05:00.000-05:00'
+date: '2016-04-28 20:05:00 0600'
 tags:
 - meals
 - indian

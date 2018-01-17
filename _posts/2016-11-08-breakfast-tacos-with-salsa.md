@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Breakfast Tacos with Salsa
-date: '2016-11-08T21:13:00.000-05:00'
+date: '2016-11-08 21:13:00 0600'
 tags:
 - meals
 - breakfast

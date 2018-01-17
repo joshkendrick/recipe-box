@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Doritos Taco Salad
-date: '2016-09-07T20:35:00.000-05:00'
+date: '2016-09-07 20:35:00 0600'
 tags:
 - meals
 - tacos

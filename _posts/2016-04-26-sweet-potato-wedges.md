@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Sweet Potato Wedges
-date: '2016-04-26T09:58:00.000-05:00'
+date: '2016-04-26 09:58:00 0600'
 tags:
 - sides
 - sweet-potatoes

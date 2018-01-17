@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Parmesan Zucchini Crisps
-date: '2016-09-07T20:44:00.000-05:00'
+date: '2016-09-07 20:44:00 0600'
 tags:
 - sides
 - vegetarian

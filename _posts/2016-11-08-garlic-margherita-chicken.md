@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Garlic Margherita Chicken
-date: '2016-11-08T21:59:00.000-05:00'
+date: '2016-11-08 21:59:00 0600'
 tags:
 - meals
 - chicken

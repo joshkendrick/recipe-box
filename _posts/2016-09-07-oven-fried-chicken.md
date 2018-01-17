@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Oven Fried Chicken
-date: '2016-09-07T20:26:00.000-05:00'
+date: '2016-09-07 20:26:00 0600'
 tags:
 - meals
 - chicken
