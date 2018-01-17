@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Roasted Sweet Potato and Black Bean Salad w/ Chile Dressing
-date: '2018-01-16T20:30:00.000-05:00'
+date: '2018-01-16 20:30:00 0600'
 tags:
 - meals
 - vegetarian
