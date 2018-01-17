@@ -5,7 +5,9 @@ title: Roasted Butternut and Quinoa Salad w/ Spicy Lime Vinaigrette
 date: '2018-01-16 21:48:00 0600'
 tags:
 - meals
-- chicken
+- butternut-squash
+- quinoa
+- salad
 ---
 
 Ingredients (for dressing):
