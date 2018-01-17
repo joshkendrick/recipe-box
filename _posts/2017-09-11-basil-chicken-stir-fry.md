@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Basil Chicken Stir Fry
-date: '2017-09-11T20:49:00.000-05:00'
+date: '2017-09-11 20:49:00 0600'
 tags:
 - meals
 - asian

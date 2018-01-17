@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Mac and Queso with Sausage
-date: '2017-09-11T21:08:00.000-05:00'
+date: '2017-09-11 21:08:00 0600'
 tags:
 - pasta
 - sausage

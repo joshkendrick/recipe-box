@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Toasted Cashew and Marzipan Blondies
-date: '2017-11-24T20:33:00.000-05:00'
+date: '2017-11-24 20:33:00 0600'
 tags:
 - desserts
 - blondies

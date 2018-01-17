@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Slow Cooker Kielbasa and White Bean Cassoulet
-date: '2016-01-18 08:01:00 0600'
+date: '2016-01-08 08:01:00 0600'
 tags:
 - meals
 - slow-cooker

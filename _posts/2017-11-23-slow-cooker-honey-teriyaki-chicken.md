@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Slow Cooker Honey Teriyaki Chicken
-date: '2017-11-23T22:55:00.000-05:00'
+date: '2017-11-23 22:55:00 0600'
 tags:
 - meals
 - chicken

@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Superfood Chicken Soup
-date: '2017-02-11T15:55:00.000-05:00'
+date: '2017-02-11 15:55:00 0600'
 tags:
 - meals
 - chicken

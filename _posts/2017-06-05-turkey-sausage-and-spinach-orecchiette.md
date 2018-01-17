@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Turkey Sausage and Spinach Orecchiette
-date: '2017-06-05T15:27:00.000-05:00'
+date: '2017-06-05 15:27:00 0600'
 tags:
 - pasta
 - turkey

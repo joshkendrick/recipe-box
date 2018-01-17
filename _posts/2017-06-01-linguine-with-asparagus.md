@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Linguine with Asparagus
-date: '2017-06-01T20:11:00.000-05:00'
+date: '2017-06-01 20:11:00 0600'
 tags:
 - pasta
 - asparagus

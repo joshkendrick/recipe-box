@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Asian Lettuce Wraps
-date: '2017-06-01T19:54:00.000-05:00'
+date: '2017-06-01 19:54:00 0600'
 tags:
 - meals
 - asian

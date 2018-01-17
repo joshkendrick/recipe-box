@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Rigatoni Butternut Squash and Brussels Sprouts
-date: '2017-05-15T21:55:00.000-05:00'
+date: '2017-05-15 21:55:00 0600'
 tags:
 - pasta
 - vegetarian

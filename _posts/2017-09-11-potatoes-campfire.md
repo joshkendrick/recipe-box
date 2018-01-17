@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Potatoes Campfire
-date: '2017-08-01T22:09:00.000-05:00'
+date: '2017-09-11 22:09:00 0600'
 tags:
 - sides
 - vegetarian

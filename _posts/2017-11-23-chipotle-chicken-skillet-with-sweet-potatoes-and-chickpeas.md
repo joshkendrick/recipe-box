@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Chipotle Chicken Skillet with Sweet Potatoes and Chickpeas
-date: '2017-11-23T22:42:00.000-05:00'
+date: '2017-11-23 22:42:00 0600'
 tags:
 - meals
 - chicken

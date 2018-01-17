@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Potato Chunks Foil Pack
-date: '2017-09-11T20:35:00.000-05:00'
+date: '2017-09-11 20:35:00 0600'
 tags:
 - sides
 - vegetarian

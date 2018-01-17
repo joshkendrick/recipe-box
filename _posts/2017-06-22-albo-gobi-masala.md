@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Albo Gobi Masala
-date: '2017-06-22T19:50:00.000-05:00'
+date: '2017-06-22 19:50:00 0600'
 tags:
 - meals
 - masala

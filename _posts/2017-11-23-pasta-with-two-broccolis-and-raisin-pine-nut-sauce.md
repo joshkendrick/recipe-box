@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Pasta with Two Broccolis and Raisin Pine Nut Sauce
-date: '2017-11-23T23:21:00.000-05:00'
+date: '2017-11-23 23:21:00 0600'
 tags:
 - pasta
 - vegetarian

@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Slow Cooker Pesto Minestrone
-date: '2017-02-11T15:46:00.000-05:00'
+date: '2017-02-11 15:46:00 0600'
 tags:
 - meals
 - slow-cooker

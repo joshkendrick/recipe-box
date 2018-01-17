@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Black Eyed Pea Salad
-date: '2017-08-01T22:09:00.000-05:00'
+date: '2017-08-01 22:09:00 0600'
 tags:
 - sides
 ---

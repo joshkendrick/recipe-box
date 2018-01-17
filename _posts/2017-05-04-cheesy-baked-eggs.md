@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Cheesy Baked Eggs
-date: '2017-05-04T10:45:00.000-05:00'
+date: '2017-05-04 10:45:00 0600'
 tags:
 - sides
 - eggs

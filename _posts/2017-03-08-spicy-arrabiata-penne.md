@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Spicy Arrabiata Penne
-date: '2017-03-08T16:27:00.000-05:00'
+date: '2017-03-08 16:27:00 0600'
 tags:
 - pasta
 - spicy

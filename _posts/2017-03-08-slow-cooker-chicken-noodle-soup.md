@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Slow Cooker Chicken Noodle Soup
-date: '2017-03-08T16:17:00.000-05:00'
+date: '2017-03-08 16:17:00 0600'
 tags:
 - meals
 - chicken

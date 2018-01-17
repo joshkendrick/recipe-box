@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Curried Chickpea and Red Lentil Soup
-date: '2017-05-04T13:23:00.000-05:00'
+date: '2017-05-04 13:23:00 0600'
 tags:
 - meals
 - indian

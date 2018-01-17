@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Miso Peanut Pasta Salad
-date: '2017-11-23T23:06:00.000-05:00'
+date: '2017-11-23 23:06:00 0600'
 tags:
 - pasta
 ---

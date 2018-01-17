@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Garlic Rosemary Dutch Baby
-date: '2017-06-27T19:56:00.000-05:00'
+date: '2017-06-27 19:56:00 0600'
 tags:
 - sides
 ---

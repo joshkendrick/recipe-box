@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Chicken Taco Salad
-date: '2017-10-04T21:01:00.000-05:00'
+date: '2017-10-04 21:01:00 0600'
 tags:
 - meals
 - chicken
