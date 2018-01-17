@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Three Bean Salad
-date: '2015-09-27T14:13:00.000-05:00'
+date: '2015-09-27 14:13:00 0600'
 tags:
 - sides
 - salads

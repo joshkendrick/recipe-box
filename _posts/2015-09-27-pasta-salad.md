@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Pasta Salad
-date: '2015-09-27T11:38:00.000-05:00'
+date: '2015-09-27 11:38:00 0600'
 tags:
 - sides
 - salads

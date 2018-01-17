@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Potato Salad with Green Beans and Salsa Verde
-date: '2015-06-03T20:01:00.000-05:00'
+date: '2015-06-03 20:01:00 0600'
 tags:
 - sides
 - potato-salad

@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Chicken Slow Cooker Hominy Posole Soup
-date: '2015-11-18T22:49:00.000-05:00'
+date: '2015-11-18 22:49:00 0600'
 tags:
 - meals
 - chicken

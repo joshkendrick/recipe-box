@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Zesty Green Beans
-date: '2014-03-09T14:00:00.000-05:00'
+date: '2014-03-09 14:00:00 0600'
 tags:
 - sides
 ---

@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Roasted Veggies and Brown Rice with Lemon Dressing
-date: '2015-11-18T22:35:00.000-05:00'
+date: '2015-11-18 22:35:00 0600'
 tags:
 - meals
 - vegetarian

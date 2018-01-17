@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Kale Couscous
-date: '2015-06-22T19:20:00.000-05:00'
+date: '2015-06-22 19:20:00 0600'
 tags:
 - meals
 - kale

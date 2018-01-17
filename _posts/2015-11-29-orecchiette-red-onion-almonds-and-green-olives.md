@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Orecchiette Red Onion Almonds and Green Olives
-date: '2015-11-29T10:26:00.000-05:00'
+date: '2015-11-29 10:26:00 0600'
 tags:
 - pasta
 ---

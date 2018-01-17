@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Chicken and Carrots Noodles
-date: '2015-02-28T10:17:00.000-05:00'
+date: '2015-02-28 10:17:00 0600'
 tags:
 - pasta
 - chicken

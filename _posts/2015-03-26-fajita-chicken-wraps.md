@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Fajita Chicken Wraps
-date: '2015-03-26T19:17:00.000-05:00'
+date: '2015-03-26 19:17:00 0600'
 tags:
 - meals
 - chicken

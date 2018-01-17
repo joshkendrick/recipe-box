@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Summer Gumbo
-date: '2015-05-05T15:58:00.000-05:00'
+date: '2015-05-05 15:58:00 0600'
 tags:
 - meals
 - soup

@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Quinoa Fajita Burritos
-date: '2014-01-01T12:40:00.000-05:00'
+date: '2014-01-01 12:40:00 0600'
 tags:
 - meals
 - quinoa
