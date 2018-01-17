@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Tacos Vegetarian
-date: '2013-02-21T11:32:00.000-05:00'
+date: '2013-02-21 11:32:00 0600'
 tags:
 - meals
 - tacos

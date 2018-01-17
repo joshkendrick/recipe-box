@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Curried Cashew Burgers
-date: '2013-02-07T11:56:00.000-05:00'
+date: '2013-02-07 11:56:00 0600'
 tags:
 - meals
 - indian

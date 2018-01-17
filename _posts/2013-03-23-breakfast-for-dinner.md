@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Breakfast for Dinner
-date: '2013-03-23T19:21:00.000-05:00'
+date: '2013-03-23 19:21:00 0600'
 tags:
 - meals
 - breakfast

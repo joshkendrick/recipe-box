@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Crock Pot Sloppy Joe's Vegetarian
-date: '2013-09-02T19:17:00.000-05:00'
+date: '2013-09-02 19:17:00 0600'
 tags:
 - meals
 - slow-cooker

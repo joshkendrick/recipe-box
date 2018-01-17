@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Garlic Broccoli Pasta
-date: '2013-02-21T10:49:00.000-05:00'
+date: '2013-02-21 10:49:00 0600'
 tags:
 - pasta
 - broccoli

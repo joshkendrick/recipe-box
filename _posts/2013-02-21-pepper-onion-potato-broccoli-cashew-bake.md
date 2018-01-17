@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Pepper Onion Potato Broccoli Cashew Bake
-date: '2013-02-21T11:04:00.000-05:00'
+date: '2013-02-21 11:04:00 0600'
 tags:
 - meals
 - bake

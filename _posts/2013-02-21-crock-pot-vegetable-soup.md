@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Crock Pot Vegetable Soup
-date: '2013-02-21T10:45:00.000-05:00'
+date: '2013-02-21 10:45:00 0600'
 tags:
 - meals
 - slow-cooker

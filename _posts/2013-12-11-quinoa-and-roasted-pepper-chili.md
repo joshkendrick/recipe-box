@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Quinoa and Roasted Pepper Chili
-date: '2013-12-11T16:14:00.000-05:00'
+date: '2013-12-11 16:14:00 0600'
 tags:
 - meals
 - quinoa

@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Spicy Chipotle Peanut Noodle Bowl
-date: '2013-02-21T11:16:00.000-05:00'
+date: '2013-02-21 11:16:00 0600'
 tags:
 - pasta
 - spicy

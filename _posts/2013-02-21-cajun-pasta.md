@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Cajun Pasta
-date: '2013-02-21T10:36:00.000-05:00'
+date: '2013-02-21 10:36:00 0600'
 tags:
 - pasta
 ---

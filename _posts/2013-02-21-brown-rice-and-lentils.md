@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Brown Rice and Lentils
-date: '2013-02-21T10:32:00.000-05:00'
+date: '2013-02-21 10:32:00 0600'
 tags:
 - meals
 - brown-rice

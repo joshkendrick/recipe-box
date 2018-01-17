@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Sweet Potato Burritos
-date: '2013-06-18T19:48:00.000-05:00'
+date: '2013-06-18 19:48:00 0600'
 tags:
 - meals
 - sweet-potatoes

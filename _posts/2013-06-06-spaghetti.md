@@ -2,7 +2,7 @@
 layout: post
 author: Josh Kendrick
 title: Spaghetti
-date: '2013-06-06T21:10:00.000-05:00'
+date: '2013-06-06 21:10:00 0600'
 tags:
 - pasta
 ---
