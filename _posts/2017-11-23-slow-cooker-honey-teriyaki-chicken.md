@@ -30,7 +30,7 @@ Directions:
 6. Place chopped onion and chicken into 4 qt or larger slow cooker
 7. Pour teriyaki sauce on top, cook on high 3 hrs, or low 5 hrs
 8. Remove chicken from cooker, shred
-9. Place back in, stiry to combine
+9. Place back in, stir to combine
 10. Cook 1 more hour on low, stirring occasionally
 11. Garnish with seeds and/or scallion. Server over rice or quinoa
 
