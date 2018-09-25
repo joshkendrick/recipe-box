@@ -7,6 +7,7 @@ tags:
 - chicken
 - grilling
 - soup
+- meals
 ---
 
 Ingredients:
