@@ -10,6 +10,7 @@ tags:
 
 Ingredients:
 * 2 cups milk
+* 2 cups water
 * 1 cup quick-cooking grits
 * 1.5 cups shredded cheddar cheese
 * 1 tablespoon butter
