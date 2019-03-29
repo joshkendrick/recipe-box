@@ -5,6 +5,7 @@ title: Indian Style Chicken
 date: '2017-06-27 20:04:00 0600'
 tags:
 - meals
+- grill
 - chicken
 ---
 

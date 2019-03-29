@@ -5,8 +5,8 @@ title: Kale Yellow Squash and Sweet Potato Stew
 date: '2013-11-23 23:38:00 0600'
 tags:
 - meals
-- kale
 - soup
+- kale
 - sweet-potatoes
 ---
 

@@ -5,8 +5,8 @@ title: Potato Lentil Soup with Greens
 date: '2013-02-03 09:27:00 0600'
 tags:
 - meals
-- kale
 - soup
+- kale
 ---
 
 Ingredients:

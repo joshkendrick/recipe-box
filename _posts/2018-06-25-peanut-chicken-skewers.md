@@ -4,9 +4,10 @@ author: Josh Kendrick
 title: Peanut Chicken Skewers
 date: '2018-06-25 21:02:00 0600'
 tags:
-- chicken
-- bbq
 - meals
+- grill
+- bbq
+- chicken
 ---
 
 Ingredients:

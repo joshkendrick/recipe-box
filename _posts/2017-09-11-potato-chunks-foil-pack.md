@@ -4,6 +4,7 @@ author: Josh Kendrick
 title: Potato Chunks Foil Pack
 date: '2017-09-11 20:35:00 0600'
 tags:
+- grill
 - sides
 - vegetarian
 ---

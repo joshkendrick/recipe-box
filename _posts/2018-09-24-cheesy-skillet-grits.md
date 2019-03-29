@@ -15,7 +15,6 @@ Ingredients:
 * 1.5 cups shredded cheddar cheese
 * 1 tablespoon butter
 * salt, pepper
-* 2 cups water
 
 Directions:
 1. Bring milk, water to a simmer in medium ovenproof skillet

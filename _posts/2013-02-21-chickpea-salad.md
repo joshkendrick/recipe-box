@@ -5,8 +5,8 @@ title: Chickpea Salad
 date: '2013-02-21 11:23:00 0600'
 tags:
 - meals
-- chickpeas
 - salad
+- chickpeas
 ---
 
 Ingredients:

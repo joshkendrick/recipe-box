@@ -5,10 +5,11 @@ title: BBQ Buffalo Chicken Salad
 date: '2017-06-22 19:50:00 0600'
 tags:
 - meals
+- grill
 - bbq
 - buffalo
 - chicken
-- salad
+- salads
 ---
 
 Ingredients:

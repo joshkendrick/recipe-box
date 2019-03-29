@@ -9,7 +9,7 @@ tags:
 ---
 
 Ingredients:
-* 4 bonesless skinless chicken breasts
+* 4 boneless skinless chicken breasts
 * 1 tablespoon corn starch
 * 1 tablespoon room temp water
 * 3 tablespoons brown sugar

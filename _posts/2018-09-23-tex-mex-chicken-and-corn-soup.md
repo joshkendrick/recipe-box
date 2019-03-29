@@ -4,10 +4,10 @@ author: Josh Kendrick
 title: Tex-Mex Chicken and Corn Soup
 date: '2018-09-23 20:29:00 0600'
 tags:
-- chicken
-- grilling
-- soup
 - meals
+- grill
+- soup
+- chicken
 ---
 
 Ingredients:
