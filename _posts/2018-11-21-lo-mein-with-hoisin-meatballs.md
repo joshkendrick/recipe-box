@@ -4,9 +4,8 @@ author: Josh Kendrick
 title: Lo Mein with Hoisin Meatballs
 date: '2018-11-21 20:23:00 0600'
 tags:
-- meals
-- beef
 - pasta
+- beef
 ---
 
 Ingredients:

@@ -4,7 +4,7 @@ author: Josh Kendrick
 title: Thai Noodle Bowl with Chicken
 date: '2018-05-09 21:16:00 0600'
 tags:
-- meals
+- pasta
 - chicken
 - bowls
 ---
