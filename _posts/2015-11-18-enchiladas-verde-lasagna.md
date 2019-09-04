@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Josh Kendrick
-title: Enchiladas Verde Lasa-gna
+title: Enchiladas Verde Lasagna
 date: '2015-11-18 22:43:00 0600'
 tags:
 - meals
