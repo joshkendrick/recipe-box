@@ -28,7 +28,7 @@ title: Home
 		{% endfor %}
 		{% if show %}
 			<li>
-				<a href="{{ post.url }}">{{ post.title }}</a> &raquo;
+				<a href="{{ post.url | relative_url }}">{{ post.title }}</a> &raquo;
 				<span>{{ post.date | date_to_string }}</span>
 			</li>
 		{% endif %}
@@ -41,7 +41,7 @@ title: Home
 	{% assign sortedPosts = site.tags.grill | sort: 'title' %}
 	{% for post in sortedPosts %}
 		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a> &raquo;
+			<a href="{{ post.url | relative_url }}">{{ post.title }}</a> &raquo;
 			<span>{{ post.date | date_to_string }}</span>
 		</li>
 	{% endfor %}
@@ -53,7 +53,7 @@ title: Home
 	{% assign sortedPosts = site.tags.pasta | sort: 'title' %}
 	{% for post in sortedPosts %}
 		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a> &raquo;
+			<a href="{{ post.url | relative_url }}">{{ post.title }}</a> &raquo;
 			<span>{{ post.date | date_to_string }}</span>
 		</li>
 	{% endfor %}
@@ -73,7 +73,7 @@ title: Home
 		{% endfor %}
 		{% if show %}
 			<li>
-				<a href="{{ post.url }}">{{ post.title }}</a> &raquo;
+				<a href="{{ post.url | relative_url }}">{{ post.title }}</a> &raquo;
 				<span>{{ post.date | date_to_string }}</span>
 			</li>
 		{% endif %}
